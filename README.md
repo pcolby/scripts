@@ -2,6 +2,8 @@
 
 Just some scripts that I've shared various places, such as on [my blog](http://colby.id.au/).
 
+* [benchmarking-sqs/*](benchmarking-sqs)- some bashic PHP scripts use to
+  [benchmark SQS](http://colby.id.au/benchmarking-sqs).
 * [cpu.sh](cpu.sh) - a basic Bash shell script demonstrating how to
   [calculate CPU Usage from /proc/stat](http://colby.id.au/calculating-cpu-usage-from-proc-stat).
 
