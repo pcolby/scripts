@@ -1,6 +1,8 @@
-# Script:
+# Script
 
 Just some scripts that I've shared various places, such as on [my blog](http://colby.id.au/).
+
+## Scripts
 
 * [benchmarking-sqs/*](benchmarking-sqs)- some bashic PHP scripts use to
   [benchmark SQS](http://colby.id.au/benchmarking-sqs).
