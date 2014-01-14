@@ -43,5 +43,4 @@ class timer implements Countable {
 
 }
 
-
 ?>
