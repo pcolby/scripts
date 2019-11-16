@@ -11,7 +11,7 @@ while true; do
 
   # Calculate the total CPU time.
   TOTAL=0
-  for VALUE in "${CPU[@]}"; do
+  for VALUE in "${CPU[@]:0:8}"; do
     TOTAL=$((TOTAL+VALUE))
   done
 
